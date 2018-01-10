@@ -10,6 +10,6 @@
 * vagrant up
 * vagrant ssh
 
-Whole mrmud folder will be mapped to /vagrant
+Whole mrmud folder will be mapped to /home/vagrant/mrmud
 
-Try to compile mud: cd /vagrant/src && make
+Try to compile mud after you login into the vm: cd mrmud/src & make
