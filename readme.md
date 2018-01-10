@@ -2,8 +2,7 @@
 
 ## Requirements
 
-* Vagrant with vbguest plugin
-** To install vbguest plugin: vagrant plugin install vagrant-vbguest 
+* Vagrant
 
 ## How to use
 
